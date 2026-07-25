@@ -15,13 +15,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gurukiran25/leedcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [1768-merge-strings-alternately](https://github.com/gurukiran25/leedcode-problems/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gurukiran25/leedcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [1768-merge-strings-alternately](https://github.com/gurukiran25/leedcode-problems/tree/master/1768-merge-strings-alternately) |
 ## Enumeration
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/gurukiran25/leedcode-problems/tree/master/1534-count-good-triplets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/gurukiran25/leedcode-problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
