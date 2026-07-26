@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gurukiran25/leedcode-problems/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/gurukiran25/leedcode-problems/tree/master/0006-zigzag-conversion) |
 | [1768-merge-strings-alternately](https://github.com/gurukiran25/leedcode-problems/tree/master/1768-merge-strings-alternately) |
 ## Enumeration
 |  |
