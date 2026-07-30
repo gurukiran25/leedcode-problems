@@ -32,4 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gurukiran25/leedcode-problems/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/gurukiran25/leedcode-problems/tree/master/0070-climbing-stairs) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/gurukiran25/leedcode-problems/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/gurukiran25/leedcode-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
