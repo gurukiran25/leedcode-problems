@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/gurukiran25/leedcode-problems/tree/master/0118-pascals-triangle) |
 | [1534-count-good-triplets](https://github.com/gurukiran25/leedcode-problems/tree/master/1534-count-good-triplets) |
 | [1732-find-the-highest-altitude](https://github.com/gurukiran25/leedcode-problems/tree/master/1732-find-the-highest-altitude) |
 ## Prefix Sum
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gurukiran25/leedcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/gurukiran25/leedcode-problems/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/gurukiran25/leedcode-problems/tree/master/0118-pascals-triangle) |
 ## Math
 |  |
 | ------- |
