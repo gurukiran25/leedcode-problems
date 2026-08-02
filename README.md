@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/gurukiran25/leedcode-problems/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/gurukiran25/leedcode-problems/tree/master/0118-pascals-triangle) |
+| [0217-contains-duplicate](https://github.com/gurukiran25/leedcode-problems/tree/master/0217-contains-duplicate) |
 | [1534-count-good-triplets](https://github.com/gurukiran25/leedcode-problems/tree/master/1534-count-good-triplets) |
 | [1732-find-the-highest-altitude](https://github.com/gurukiran25/leedcode-problems/tree/master/1732-find-the-highest-altitude) |
 ## Prefix Sum
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gurukiran25/leedcode-problems/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/gurukiran25/leedcode-problems/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/gurukiran25/leedcode-problems/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
