@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gurukiran25/leedcode-problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/gurukiran25/leedcode-problems/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/gurukiran25/leedcode-problems/tree/master/0016-3sum-closest) |
 | [0118-pascals-triangle](https://github.com/gurukiran25/leedcode-problems/tree/master/0118-pascals-triangle) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gurukiran25/leedcode-problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/gurukiran25/leedcode-problems/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
