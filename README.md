@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/gurukiran25/leedcode-problems/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/gurukiran25/leedcode-problems/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/gurukiran25/leedcode-problems/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/gurukiran25/leedcode-problems/tree/master/0242-valid-anagram) |
 | [1768-merge-strings-alternately](https://github.com/gurukiran25/leedcode-problems/tree/master/1768-merge-strings-alternately) |
 ## Enumeration
 |  |
@@ -62,12 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gurukiran25/leedcode-problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/gurukiran25/leedcode-problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/gurukiran25/leedcode-problems/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gurukiran25/leedcode-problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/gurukiran25/leedcode-problems/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/gurukiran25/leedcode-problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/gurukiran25/leedcode-problems/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
