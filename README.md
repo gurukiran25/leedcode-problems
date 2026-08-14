@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/gurukiran25/leedcode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/gurukiran25/leedcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/gurukiran25/leedcode-problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/gurukiran25/leedcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0455-assign-cookies](https://github.com/gurukiran25/leedcode-problems/tree/master/0455-assign-cookies) |
 | [1534-count-good-triplets](https://github.com/gurukiran25/leedcode-problems/tree/master/1534-count-good-triplets) |
 | [1732-find-the-highest-altitude](https://github.com/gurukiran25/leedcode-problems/tree/master/1732-find-the-highest-altitude) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gurukiran25/leedcode-problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/gurukiran25/leedcode-problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/gurukiran25/leedcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/gurukiran25/leedcode-problems/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/gurukiran25/leedcode-problems/tree/master/0455-assign-cookies) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/gurukiran25/leedcode-problems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
