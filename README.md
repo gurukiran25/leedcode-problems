@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/gurukiran25/leedcode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/gurukiran25/leedcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/gurukiran25/leedcode-problems/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/gurukiran25/leedcode-problems/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/gurukiran25/leedcode-problems/tree/master/0455-assign-cookies) |
 | [1534-count-good-triplets](https://github.com/gurukiran25/leedcode-problems/tree/master/1534-count-good-triplets) |
 | [1732-find-the-highest-altitude](https://github.com/gurukiran25/leedcode-problems/tree/master/1732-find-the-highest-altitude) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/gurukiran25/leedcode-problems/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/gurukiran25/leedcode-problems/tree/master/0171-excel-sheet-column-number) |
+| [0268-missing-number](https://github.com/gurukiran25/leedcode-problems/tree/master/0268-missing-number) |
 ## Memoization
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/gurukiran25/leedcode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/gurukiran25/leedcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/gurukiran25/leedcode-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/gurukiran25/leedcode-problems/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/gurukiran25/leedcode-problems/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/gurukiran25/leedcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/gurukiran25/leedcode-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/gurukiran25/leedcode-problems/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/gurukiran25/leedcode-problems/tree/master/0455-assign-cookies) |
 ## Trie
 |  |
@@ -99,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/gurukiran25/leedcode-problems/tree/master/0219-contains-duplicate-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/gurukiran25/leedcode-problems/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/gurukiran25/leedcode-problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
