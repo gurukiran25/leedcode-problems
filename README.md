@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/gurukiran25/leedcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/gurukiran25/leedcode-problems/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/gurukiran25/leedcode-problems/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/gurukiran25/leedcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/gurukiran25/leedcode-problems/tree/master/0455-assign-cookies) |
 | [1534-count-good-triplets](https://github.com/gurukiran25/leedcode-problems/tree/master/1534-count-good-triplets) |
 | [1732-find-the-highest-altitude](https://github.com/gurukiran25/leedcode-problems/tree/master/1732-find-the-highest-altitude) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/gurukiran25/leedcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [1732-find-the-highest-altitude](https://github.com/gurukiran25/leedcode-problems/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/gurukiran25/leedcode-problems/tree/master/0268-missing-number) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/gurukiran25/leedcode-problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
