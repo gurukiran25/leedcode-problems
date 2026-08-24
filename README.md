@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/gurukiran25/leedcode-problems/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/gurukiran25/leedcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/gurukiran25/leedcode-problems/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/gurukiran25/leedcode-problems/tree/master/0383-ransom-note) |
 | [1768-merge-strings-alternately](https://github.com/gurukiran25/leedcode-problems/tree/master/1768-merge-strings-alternately) |
 ## Enumeration
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gurukiran25/leedcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gurukiran25/leedcode-problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gurukiran25/leedcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/gurukiran25/leedcode-problems/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gurukiran25/leedcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/gurukiran25/leedcode-problems/tree/master/0303-range-sum-query-immutable) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/gurukiran25/leedcode-problems/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
