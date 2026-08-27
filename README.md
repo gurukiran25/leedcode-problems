@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/gurukiran25/leedcode-problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/gurukiran25/leedcode-problems/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gurukiran25/leedcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/gurukiran25/leedcode-problems/tree/master/0412-fizz-buzz) |
 | [1768-merge-strings-alternately](https://github.com/gurukiran25/leedcode-problems/tree/master/1768-merge-strings-alternately) |
 ## Enumeration
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/gurukiran25/leedcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/gurukiran25/leedcode-problems/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gurukiran25/leedcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/gurukiran25/leedcode-problems/tree/master/0412-fizz-buzz) |
 ## Memoization
 |  |
 | ------- |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/gurukiran25/leedcode-problems/tree/master/0383-ransom-note) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/gurukiran25/leedcode-problems/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
