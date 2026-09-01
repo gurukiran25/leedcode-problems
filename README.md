@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gurukiran25/leedcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/gurukiran25/leedcode-problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/gurukiran25/leedcode-problems/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/gurukiran25/leedcode-problems/tree/master/0496-next-greater-element-i) |
 | [1534-count-good-triplets](https://github.com/gurukiran25/leedcode-problems/tree/master/1534-count-good-triplets) |
 | [1732-find-the-highest-altitude](https://github.com/gurukiran25/leedcode-problems/tree/master/1732-find-the-highest-altitude) |
 ## Prefix Sum
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/gurukiran25/leedcode-problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/gurukiran25/leedcode-problems/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gurukiran25/leedcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/gurukiran25/leedcode-problems/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -161,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gurukiran25/leedcode-problems/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/gurukiran25/leedcode-problems/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/gurukiran25/leedcode-problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
