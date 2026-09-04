@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/gurukiran25/leedcode-problems/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/gurukiran25/leedcode-problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0504-base-7](https://github.com/gurukiran25/leedcode-problems/tree/master/0504-base-7) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/gurukiran25/leedcode-problems/tree/master/0521-longest-uncommon-subsequence-i) |
 | [1768-merge-strings-alternately](https://github.com/gurukiran25/leedcode-problems/tree/master/1768-merge-strings-alternately) |
 ## Enumeration
 |  |
