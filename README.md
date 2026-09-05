@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/gurukiran25/leedcode-problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0504-base-7](https://github.com/gurukiran25/leedcode-problems/tree/master/0504-base-7) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/gurukiran25/leedcode-problems/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0551-student-attendance-record-i](https://github.com/gurukiran25/leedcode-problems/tree/master/0551-student-attendance-record-i) |
 | [1768-merge-strings-alternately](https://github.com/gurukiran25/leedcode-problems/tree/master/1768-merge-strings-alternately) |
 ## Enumeration
 |  |
