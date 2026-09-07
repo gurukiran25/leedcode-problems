@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/gurukiran25/leedcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/gurukiran25/leedcode-problems/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/gurukiran25/leedcode-problems/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/gurukiran25/leedcode-problems/tree/master/0561-array-partition) |
 | [1534-count-good-triplets](https://github.com/gurukiran25/leedcode-problems/tree/master/1534-count-good-triplets) |
 | [1732-find-the-highest-altitude](https://github.com/gurukiran25/leedcode-problems/tree/master/1732-find-the-highest-altitude) |
 ## Prefix Sum
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/gurukiran25/leedcode-problems/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/gurukiran25/leedcode-problems/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/gurukiran25/leedcode-problems/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/gurukiran25/leedcode-problems/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/gurukiran25/leedcode-problems/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/gurukiran25/leedcode-problems/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/gurukiran25/leedcode-problems/tree/master/0561-array-partition) |
 ## Trie
 |  |
 | ------- |
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/gurukiran25/leedcode-problems/tree/master/0506-relative-ranks) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/gurukiran25/leedcode-problems/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
