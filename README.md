@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/gurukiran25/leedcode-problems/tree/master/0197-rising-temperature) |
+| [0596-classes-with-at-least-5-students](https://github.com/gurukiran25/leedcode-problems/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/gurukiran25/leedcode-problems/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/gurukiran25/leedcode-problems/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/gurukiran25/leedcode-problems/tree/master/1075-project-employees-i) |
