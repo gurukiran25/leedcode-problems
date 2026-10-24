@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/gurukiran25/leedcode-problems/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/gurukiran25/leedcode-problems/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/gurukiran25/leedcode-problems/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/gurukiran25/leedcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gurukiran25/leedcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gurukiran25/leedcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/gurukiran25/leedcode-problems/tree/master/0455-assign-cookies) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/gurukiran25/leedcode-problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/gurukiran25/leedcode-problems/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/gurukiran25/leedcode-problems/tree/master/0125-valid-palindrome) |
+| [0349-intersection-of-two-arrays](https://github.com/gurukiran25/leedcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gurukiran25/leedcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/gurukiran25/leedcode-problems/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gurukiran25/leedcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/gurukiran25/leedcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/gurukiran25/leedcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gurukiran25/leedcode-problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/gurukiran25/leedcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gurukiran25/leedcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/gurukiran25/leedcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/gurukiran25/leedcode-problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/gurukiran25/leedcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/gurukiran25/leedcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gurukiran25/leedcode-problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/gurukiran25/leedcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gurukiran25/leedcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/gurukiran25/leedcode-problems/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/gurukiran25/leedcode-problems/tree/master/0455-assign-cookies) |
@@ -147,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/gurukiran25/leedcode-problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/gurukiran25/leedcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gurukiran25/leedcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
