@@ -1,16 +1,15 @@
 class Solution {
 public:
     bool isHappy(int n) {
-        int num=n;
-        for(int i=0; i<50; i++){
+        for(int i=0; i<n; i++){
             int sum=0;
-            while(num!=0){
-                sum+=(num%10)*(num%10);
-                num=num/10;
+            while(n!=0){
+                sum+=(n%10)*(n%10);
+                n=n/10;
             }
             if (sum==1)
              return true;
-            num=sum;
+            n=sum;
         }
         return false;
         
